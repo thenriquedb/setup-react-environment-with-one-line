@@ -74,7 +74,7 @@ chmod 777 setup.sh && ./setup.sh
 
 ### Recommended
 
-- [ ] Android Studio install
+- [ ] Android Studio
 - [ ] Reactotron
 
-Made with <3 by [Thiago Domingues](https://thiagodomingues.netlify.app/ "My personal page")
+Made with :heart: by [Thiago Domingues](https://thiagodomingues.netlify.app/ "My personal page")
