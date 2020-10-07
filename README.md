@@ -1,15 +1,12 @@
 ## Script for configure Node, React e React Native Environment
 
-#### Credits
-
-Based on the [ew-ubuntu-setup](https://github.com/ErickWendel/ew-ubuntu-setup "ew-ubuntu-setup")
-created by [Erick Wendel](https://github.com/ErickWendel/ "Erick Github")
+Based on the [ew-ubuntu-setup](https://github.com/ErickWendel/ew-ubuntu-setup "ew-ubuntu-setup") created by [Erick Wendel](https://github.com/ErickWendel/ "Erick Github")
 
 ### How to use
 
 ```
-git clone https://
-cd seteup-react-environment-with-one-line
+git clone https://github.com/thenriquedb/setup-react-environment-with-one-line
+cd setup-react-environment-with-one-line
 chmod 777 setup.sh && ./setup.sh
 ```
 
