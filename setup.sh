@@ -77,6 +77,10 @@ code --install-extension WakaTime.vscode-wakatime
 code --install-extension Syler.sass-indented
 code --install-extension eamodio.gitlens
 
+echo 'install snap'
+sudo apt update
+sudo apt install snapd
+
 echo 'installing spotify'
 snap install spotify
 
@@ -132,6 +136,9 @@ sudo apt-get install openjdk-8-jdk
 
 echo 'install graphics library'
 sudo apt-get install gcc-multilib lib32z1 lib32stdc++6
+
+echo 'install android studio library with snap'
+sudo snap install android-studio --classic
 
 echo 'install expo'
 npm install -g expo-cli
